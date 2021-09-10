@@ -1,0 +1,21 @@
+===Base de datos acme
+
+== Estructura de tabla para la tabla vehiculos
+
+|------
+|Columna|Tipo|Nulo|Predeterminado
+|------
+|//**Placa**//|varchar(255)|No|
+|Color|varchar(255)|No|
+|Marca|varchar(255)|No|
+|TipoVehículo|varchar(255)|No|
+|Conductor|varchar(255)|No|
+|Propietario|varchar(255)|No|
+== Volcado de datos para la tabla vehiculos
+
+|CZQ758|rojo|Ford|Publico|Smith|Rivaaas
+|PKL523|MORADO|NISSAN|Publico|nICOL|LIMA
+|QWE123|Rojo|Nissan|Particular|Leandro|Hugo
+|ROQ295|Acero|VSG|Publico|Black|Light
+|RTZ453|Gris|Renault|Particular|Joe|asd
+|SAZ94W|Blanco|Soan|Particular|Smith|Muller
